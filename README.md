@@ -25,7 +25,7 @@ I recently completed a Git course and am diving into the world of GitHub to mana
 
 ## Contact Me
 
-Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/vivek-lanke-87a1a628a) or [Email](vivekmicro007@gmail.com).
+Feel free to reach out to me via [LinkedIn]https://www.linkedin.com/in/vivek-lanke-87a1a628a/) or [Email](vivekmicro007@gmail.com).
 
 ---
 
