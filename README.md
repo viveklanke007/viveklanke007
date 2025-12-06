@@ -1,32 +1,105 @@
-# Vivek Lanke
+👋 Hi, I'm Vivek Lanke
 
-## About Me
-
-Hello! I'm Vivek Lanke, a passionate student currently pursuing my Bachelor's in Computer Applications (BCA) at DY Patil University. I have a keen interest in software development, particularly in version control systems like Git. I'm continuously learning and exploring new technologies to enhance my skills.
-
-## Skills
-
-- **Programming Languages:** C, C++, Python
-- **Web Development:** HTML, CSS, JavaScript
-- **Version Control:** Git
-- **Other Tools:** VS Code, GitHub, PowerBI
-
-## Current Learning
-
-I recently completed a Git course and am diving into the world of GitHub to manage and share my projects. My current focus is on improving my coding skills and contributing to open-source projects.
-
-## Interests
-
-- Software Development
-- Open Source Contribution
-- Web Development
-- Improving Communication Skills
+I'm a passionate Full-Stack Developer and tech enthusiast currently pursuing my BCA at DY Patil University.
+I love building real-world projects using modern web technologies, exploring AI tools, and leveling up my development skills every day.
 
 
-## Contact Me
+🚀 Skills
 
-Feel free to reach out to me via [LinkedIn]https://www.linkedin.com/in/vivek-lanke-87a1a628a/) or [Email](vivekmicro007@gmail.com).
+Full-Stack & Web Development
 
----
+MERN Stack (MongoDB, Express, React, Node.js)
 
-Thanks for visiting my GitHub profile! I’m excited to connect with like-minded individuals and contribute to the tech community.
+Next.js
+
+REST APIs
+
+Socket.io (Real-time communication)
+
+Tailwind CSS
+
+
+Programming
+
+C, C++
+
+Python
+
+OOP, DSA
+
+CLI-based projects in C/C++
+
+
+Tools & Platforms
+
+Git, GitHub
+
+Vercel
+
+Render
+
+Netlify
+
+Postman
+
+VS Code
+
+
+
+📂 Projects
+
+🔹 Chattify – Real-Time Chat App
+
+A real-time chat application built using Next.js, Socket.io, and MongoDB.
+Features include live messaging, user authentication, typing indicators, and smooth UI.
+Deployed: Yes 🚀
+
+
+
+🔹 ClusterAI – AI Studio
+
+A feature-rich AI tool built with Next.js and MongoDB where users can interact with different AI models.
+Includes tools like text generation, chat, and more.
+Deployed: Yes 🚀
+
+
+
+🔹 Student Management System (C++ | OOP | DSA)
+
+CLI-based project implementing Object-Oriented Programming and Data Structures.
+Handles student records, searching, sorting, and more.
+
+
+🔹 More Projects
+
+I regularly work on projects related to:
+
+Full-stack web apps
+
+AI tools
+
+
+
+🔥 Interests
+
+Full-Stack Development
+
+AI Tools & Automation
+
+Building interactive and scalable applications
+
+Improving DSA & System Design knowledge
+
+
+
+
+📬 Contact Me
+
+LinkedIn: https://www.linkedin.com/in/vivek-lanke-87a1a628a
+
+Email: viveklanke100@gmail.com
+
+
+
+Thanks for checking out my GitHub!
+I'm always excited to connect, collaborate, and build awesome things 🚀.
