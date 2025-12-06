@@ -4,9 +4,11 @@ I'm a passionate Full-Stack Developer and tech enthusiast currently pursuing my 
 I love building real-world projects using modern web technologies, exploring AI tools, and leveling up my development skills every day.
 
 
+
+
 🚀 Skills
 
-Full-Stack & Web Development
+🔹Full-Stack & Web Development
 
 MERN Stack (MongoDB, Express, React, Node.js)
 
@@ -19,7 +21,7 @@ Socket.io (Real-time communication)
 Tailwind CSS
 
 
-Programming
+🔹Programming
 
 C, C++
 
@@ -30,7 +32,7 @@ OOP, DSA
 CLI-based projects in C/C++
 
 
-Tools & Platforms
+🔹Tools & Platforms
 
 Git, GitHub
 
