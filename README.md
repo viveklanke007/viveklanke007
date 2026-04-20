@@ -1,6 +1,6 @@
 <!-- 🔥 HERO SECTION -->
 <h1 align="center">Hi 👋, I'm Vivek Lanke</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Builder | Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;MERN+Stack+Developer;AI+Tools+Explorer;Always+Leveling+Up" />
@@ -14,10 +14,10 @@
 
 ## 🧠 About Me  
 
-✨ Building scalable full-stack applications  
+✨ Building real-world full-stack applications  
 🤖 Exploring AI tools & automation  
-⚡ Focused on performance + real-world impact  
-📈 Learning DSA & system design daily  
+⚡ Focused on scalable & interactive systems  
+📈 Improving DSA & system design daily  
 
 ---
 
@@ -39,14 +39,12 @@
 ## 💻 Tech Stack  
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,nextjs,mongodb,express,tailwind,git,github,vercel,postman" />
-
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,nextjs,mongodb,express,tailwind,git,github,vercel,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viveklanke007&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -55,7 +53,7 @@
 
 ---
 
-## 🔥 Contribution Streak  
+## 🔥 Streak Stats  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=viveklanke007&theme=tokyonight&hide_border=true"/>
@@ -63,18 +61,35 @@
 
 ---
 
-## 📈 Activity Graph  
+## 📊 Profile Summary  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveklanke007&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveklanke007&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## ⚡ Currently Working On  
+
+- 🚀 Building real-time full-stack apps  
+- 🤖 Exploring AI tools & automation  
+- 📚 Practicing DSA daily  
+- 🎯 Goal: Become top 1% developer  
+
+---
+
+## 💡 Dev Quote  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viveklanke007/viveklanke007/output/github-contribution-grid-snake.svg" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 😂 Random Dev Joke  
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" />
 </p>
 
 ---
